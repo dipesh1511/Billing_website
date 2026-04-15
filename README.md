@@ -14,7 +14,6 @@ This project is a full-stack Billing Management System designed to simplify dail
 - Customer Details Management
 - Reports and Analytics
 - Offline Mode with Auto Sync
-- Multi-Shop Management (Admin Panel)
 - Light & Dark Mode UI
 
 ---
@@ -62,7 +61,6 @@ npm run dev
 
 ## Usage
 
-- Login as Admin to manage multiple shops
 - Login as Shop User to handle billing and products
 - Use offline mode when internet is unavailable
 - Data will automatically sync when connection is restored
@@ -73,7 +71,7 @@ npm run dev
 
 - Advanced analytics and charts
 - Cloud deployment
-- Email/SMS notifications
+- Email/SMS notifications via (Whatsaap)
 - Inventory alerts
 
 ---
